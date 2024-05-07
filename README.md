@@ -12,6 +12,6 @@ We acknowledge that while we have a foundational understanding, we require addit
 
 ## How to Get Involved
 
-If you're interested in joining our efforts or learning more about the project, please reach out to us! You can express your interest by contacting us through GitHub or via email [insert email here].
+If you're interested in joining our efforts or learning more about the project, please reach out to us! You can express your interest by contacting us through GitHub.
 
 We look forward to collaborating with you to bring GPTO-Go to fruition and make conversational AI accessible in low cell service environments. Thank you for your interest!
